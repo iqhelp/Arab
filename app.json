@@ -1,47 +1,47 @@
 {
-  "name": "سورس تليثون العرب الاصلي",
-  "description": "اهلا بك في تليثون العرب الأصلي { @iqthon }",
-  "logo": "https://telegra.ph/file/aa0ee1b06ddcdcb40189a.jpg",
+  "name": "سورس الخليفه الاصلي",
+  "description": "اهلا بك في سورس الخليفه الأصلي { @ZZZ7iZ }",
+  "logo": "https://telegra.ph/file/c2de1210c18c16541601f.jpg",
   "keywords": ["plugin","modular","productivity"],
   "repository": "https://github.com/help-iq2/telethon",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هنا ضع اسم التلجرام الخاص بك",
+      "description": "هنا اسم تليكرام",
       "value": ""
     },
     "APP_ID": {
-      "description": "هنا ضع الايبي ايدي الخاص بك يتكون من ارقام", 
+      "description": "هنا الاب ايدي", 
       "value": ""
     },
     "API_HASH": {
-      "description": "هنا ضع الايبي هاش الخاص بك يتكون من احرف و ارقام",
+      "description": "هنا الايبي هاش",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": " ضع كود تيرمكس",
+      "description": " ها كود تيرمكس",
       "value": ""
     },
     "TG_BOT_USERNAME": {
-      "description": " ضع معرف بوتك بدون @",
+      "description": " معرف بوتك بدون @",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "ضع توكن بوتك",
+      "description": "توكن بوتك ",
       "value": ""
     },
     "COMMAND_HAND_LER": {
-      "description": "اتركة كما هوة او ضع الأمر الذي تريده بدلا من النقطة",
+      "description": "لا تغيرها ابدا",
       "value": "."
     },
     "TZ": {
-      "description": "ضع القاره / عاصمة بلدك ( اذا كنت لاتعرفه اتركة كما هوة )",
+      "description": "هنا موقعك او دولتك ومحافظتك",
       "value": "Asia/Baghdad",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "لاتغيرة",
+      "description": "لا تغيرها ابدا",
       "value": "TelethonAr",
       "required": false
     }
